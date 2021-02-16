@@ -21,7 +21,7 @@ My name is Vitalij and i'm a frontend developer. I'm from Russia, living in Irku
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=00B0FF&color=2B2E3A)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=ffffff&color=bc4420)
-![](https://img.shields.io/badge/Npm-informational?style=flat-square&logo=npm&logoColor=ffffff&color=ffffff)
+![](https://img.shields.io/badge/Npm-informational?style=flat-square&logo=npm&logoColor=ffffff&color=2B2E3A)
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=ffffff&color=5551ff)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-informational?style=flat-square&logo=adobe-photoshop&logoColor=001E36&color=31A8FF)
 ![](https://img.shields.io/badge/Travis%20CI-informational?style=flat-square&logo=travis&logoColor=ffffff&color=2B2E3A)
@@ -29,11 +29,5 @@ My name is Vitalij and i'm a frontend developer. I'm from Russia, living in Irku
 
 ### 📈 GitHub Stats
 
-<p align="center">
-    <table>
-        <tr>
-            <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=crashmax-off&layout=compact&hide_title=true&show_icons=true&theme=white&icon_color=5194f0" /></td>
-            <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-off&hide=c%23&layout=compact&hide_title=true&theme=white&icon_color=5194f0" /></td>
-        </tr>   
-    </table>
-</p>
+<img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=crashmax-off&layout=compact&hide_title=true&show_icons=true&theme=white&icon_color=5194f0" />
+<img width="550px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-off&hide=c%23&layout=compact&hide_title=true&theme=white&icon_color=5194f0" />
