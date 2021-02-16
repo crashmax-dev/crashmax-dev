@@ -29,5 +29,5 @@ My name is Vitalij and i'm a frontend developer. I'm from Russia, living in Irku
 
 ### 📈 GitHub Stats
 
-<img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=crashmax-off&layout=compact&hide_title=true&show_icons=true&theme=white&icon_color=5194f0" />
-<img width="550px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-off&hide=c%23&layout=compact&hide_title=true&theme=white&icon_color=5194f0" />
+<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=crashmax-off&layout=compact&hide_title=true&show_icons=true&theme=white&icon_color=5194f0" />
+<img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-off&hide=c%23&layout=compact&hide_title=true&theme=white&icon_color=5194f0" />
