@@ -13,7 +13,7 @@ My name is Vitalij and i'm a frontend developer. I'm from Russia, living in Irku
 ![](https://img.shields.io/badge/React%20Native-informational?style=flat-square&logo=react&logoColor=36dff8&color=2d415c)
 ![](https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=ffffff&color=764abc)
 ![](https://img.shields.io/badge/Electron-informational?style=flat-square&logo=electron&logoColor=9FEAF9&color=2B2E3A)
-![](https://img.shields.io/badge/Node.JS-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
+![](https://img.shields.io/badge/Node.JS-informational?style=flat-square&logo=node-dot-js&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/C%20Sharp-informational?style=flat-square&logo=c-sharp&logoColor=8993be&color=2B2E3A)
 ![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=8993be&color=2B2E3A)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=ffffff&color=007D7D)
