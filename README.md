@@ -2,7 +2,7 @@
 
 My name is Vitalij and i'm a frontend developer. I'm from Russia, living in Irkutsk.
 
-<h2><img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="46" height="46"> Technologies & Tools</h1>
+<h1><img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="46" height="46"> Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
@@ -21,7 +21,7 @@ My name is Vitalij and i'm a frontend developer. I'm from Russia, living in Irku
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=ffffff&color=bc4420)
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=ffffff&color=5551ff)
 
-<h2><img src="https://github.githubassets.com/images/mona-loading.gif" width="46" height="46"> GitHub Stats</h2>
+<h1><img src="https://github.githubassets.com/images/mona-loading.gif" width="46" height="46"> GitHub Stats</h1>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=crashmax-dev&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
