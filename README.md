@@ -1,5 +1,19 @@
 <h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
+Frontend Developer with 5+ years of experience in React and Next.js, as well as previous experience in PHP (over a year).
+
+[![wakatime](https://wakatime.com/badge/user/2b32151b-c987-411d-8aef-23a48c2cd648.svg?style=flat-square)](https://wakatime.com/@2b32151b-c987-411d-8aef-23a48c2cd648)
+
+- [🎆 fireworks-js](https://github.com/crashmax-dev/firework-js) — My first open-source project. It all started with a small fork that has now been lost. The library includes components for various frameworks such as React, Vue, Svelte, and more.
+- [0️⃣ zero-dependency](https://github.com/zero-dependency) — My organization provides a set of useful libraries for everyday use, including a wrapper over fetch, document.cookie, Web Storages such as localStorage and sessionStorage, Event Emitter, React hooks, DOM utilities, and other helpful utilities.
+- [⛏ atestacraft](https://github.com/atestacraft) — A vanilla Minecraft server with enhanced features! We offer custom emojis in chat and voice chat capabilities through Plasmo Voice. Additionally, our server boasts a beautifully designed dashboard for players to enjoy.
+- [🌈 twallpaper](https://github.com/crashmax-dev/twallpaper) — Originally named (Telegram Wallpaper), this project was built using code from Telegram's public pages. This code was rewritten in TypeScript and the API was improved, so it is now available on React and Vue.
+- [⚡ vite-userscript-plugin](https://github.com/crashmax-dev/vite-userscript-plugin) — In my free time from work, I developed Userscript's. I started with writing them in a regular text editor, but copying the code into the browser resulted in bad DX. So I began using Webpack 4 and the [webpack-userscript](https://github.com/momocow/webpack-userscript/) plugin to bundle and deliver the scripts to the browser. However, after Vite was released, I decided to switch entirely to it (at least for open-source development). My plugin is simple enough and solves all my use cases when writing Userscript's.
+- [✍ stenodb](https://github.com/crashmax-dev/stenodb) — Easy to use local JSON database. Ready to use in Browser (localStorage, sessionStorage), Nest.js and Node.js.
+- [🔔 telegram-twitch-notifications](https://github.com/gigachad-dev/telegram-twitch-notifications) — This Telegram bot was written as part of our [topic in group](https://i.imgur.com/YDXSWgR.png).
+- [🤖 twurple-bot](https://github.com/gigachad-dev/twurple-bot) — This Twitch chat bot is still usable, but I do not recommend it.
+- [👩‍💻 matrix-canvas](https://github.com/crashmax-dev/matrix-canvas) — Matrix on canvas (still not finished).
+
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
