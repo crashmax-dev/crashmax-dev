@@ -1,6 +1,6 @@
 <h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
-Frontend Developer with 5+ years of experience in React and Next.js, as well as previous experience in PHP (over a year).
+Frontend Developer with 5+ years of experience in React and Next.js, as well as previous experience in PHP (one year).
 
 [![wakatime](https://wakatime.com/badge/user/2b32151b-c987-411d-8aef-23a48c2cd648.svg?style=flat-square)](https://wakatime.com/@2b32151b-c987-411d-8aef-23a48c2cd648)
 
