@@ -4,7 +4,7 @@ Frontend Developer with 5+ years of experience in React and Next.js, as well as 
 
 [![wakatime](https://wakatime.com/badge/user/2b32151b-c987-411d-8aef-23a48c2cd648.svg?style=flat-square)](https://wakatime.com/@2b32151b-c987-411d-8aef-23a48c2cd648)
 
-- [🎆 fireworks-js](https://github.com/crashmax-dev/firework-js) — My first open-source project. It all started with a small fork that has now been lost. The library includes components for various frameworks such as React, Vue, Svelte, and more.
+- [🎆 fireworks-js](https://github.com/crashmax-dev/fireworks-js) — My first open-source project. It all started with a small fork that has now been lost. The library includes components for various frameworks such as React, Vue, Svelte, and more.
 - [0️⃣ zero-dependency](https://github.com/zero-dependency) — My organization provides a set of useful libraries for everyday use, including a wrapper over fetch, document.cookie, Web Storages such as localStorage and sessionStorage, Event Emitter, React hooks, DOM utilities, and other helpful utilities.
 - [⛏ atestacraft](https://github.com/atestacraft) — A vanilla Minecraft server with enhanced features! We offer custom emojis in chat and voice chat capabilities through [Plasmo Voice](https://github.com/plasmoapp/plasmo-voice). Additionally, our server boasts a beautifully designed dashboard for players to enjoy.
 - [🌈 twallpaper](https://github.com/crashmax-dev/twallpaper) — Originally named (Telegram Wallpaper), this project was built using code from Telegram's public pages. This code was rewritten in TypeScript and the API was improved, so it is now available on React and Vue.
