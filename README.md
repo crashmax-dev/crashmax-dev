@@ -1,18 +1,24 @@
-<h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
+<h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1>
 
 Frontend Developer with 5+ years of experience in React and Next.js, as well as previous experience in PHP (one year).
 
 [![wakatime](https://wakatime.com/badge/user/2b32151b-c987-411d-8aef-23a48c2cd648.svg?style=flat-square)](https://wakatime.com/@2b32151b-c987-411d-8aef-23a48c2cd648)
 
-- [🎆 fireworks-js](https://github.com/crashmax-dev/fireworks-js) — My first open-source project. It all started with a small fork that has now been lost. The library includes components for various frameworks such as React, Vue, Svelte, and more.
-- [0️⃣ zero-dependency](https://github.com/zero-dependency) — My organization provides a set of useful libraries for everyday use, including a wrapper over fetch, document.cookie, Web Storages such as localStorage and sessionStorage, Event Emitter, React hooks, DOM utilities, and other helpful utilities.
-- [⛏ atestacraft](https://github.com/atestacraft) — A vanilla Minecraft server with enhanced features! We offer custom emojis in chat and voice chat capabilities through [Plasmo Voice](https://github.com/plasmoapp/plasmo-voice). Additionally, our server boasts a beautifully designed dashboard for players to enjoy.
-- [🌈 twallpaper](https://github.com/crashmax-dev/twallpaper) — Originally named (Telegram Wallpaper), this project was built using code from Telegram's public pages. This code was rewritten in TypeScript and the API was improved, so it is now available on React and Vue.
-- [⚡ vite-userscript-plugin](https://github.com/crashmax-dev/vite-userscript-plugin) — In my free time from work, I developed Userscript's. I started with writing them in a regular text editor, but copying the code into the browser resulted in bad DX. So I began using Webpack 4 and the [webpack-userscript](https://github.com/momocow/webpack-userscript/) plugin to bundle and deliver the scripts to the browser. However, after Vite was released, I decided to switch entirely to it (at least for open-source development). My plugin is simple enough and solves all my use cases when writing Userscript's.
+<h2>Most important repositories</h2>
+
+- [🎆 fireworks-js](https://github.com/crashmax-dev/fireworks-js) / [fireworks-js.org](https://fireworks.js.org) — A simple fireworks library! My first open-source project. It all started with a small fork that has now been lost. The library includes components for various frameworks such as React, Vue, Svelte, and more.
+- [🌈 twallpaper](https://github.com/crashmax-dev/twallpaper) / [twallpaper.js.org](https://twallpaper.js.org) — Multicolor gradient wallpaper created algorithmically and shimmers smoothly. Originally named (Telegram Wallpaper), this project was built using code from Telegram's public pages. This code was rewritten in TypeScript and the API was improved, so it is now available on React and Vue.
+- [👩‍💻 matrix-canvas](https://github.com/crashmax-dev/matrix-canvas) / [matrix.js.org](https://matrix.js.org) — Matrix on canvas (⚠️ still not finished). Currently in use on my personal [website](https://crashmax.ru).
+- [⚡ vite-userscript-plugin](https://github.com/crashmax-dev/vite-userscript-plugin) — In my free time from work, I developed Userscript's. I started with writing them in a regular text editor, but copying the code into the browser resulted in bad DX. So I began using Webpack 4 and the [webpack-userscript](https://github.com/momocow/webpack-userscript) plugin to bundle and deliver the scripts to the browser. However, after Vite was released, I decided to switch entirely to it (at least for open-source development). My plugin is simple enough and solves all my use cases when writing Userscript's.
 - [✍ stenodb](https://github.com/crashmax-dev/stenodb) — Easy to use local JSON database. Ready to use in Browser (localStorage, sessionStorage), Nest.js and Node.js.
-- [🔔 telegram-twitch-notifications](https://github.com/gigachad-dev/telegram-twitch-notifications) — This Telegram bot was written as part of our [topic in group](https://i.imgur.com/YDXSWgR.png).
-- [🤖 twurple-bot](https://github.com/gigachad-dev/twurple-bot) — This Twitch chat bot is still usable, but I do not recommend it.
-- [👩‍💻 matrix-canvas](https://github.com/crashmax-dev/matrix-canvas) — Matrix on canvas (still not finished).
+- [🔗 shortener](https://github.com/crashmax-dev/shortener) / [ie.vercel.app](https://ie.vercel.app) — URL Shortener built with Next.js and MongoDB.
+
+<h2>Organizations</h2>
+
+- [0️⃣ Zero Dependency](https://github.com/zero-dependency) — Organization provides a set of useful tiny libraries for everyday use, including [fetch](https://github.com/zero-dependency/fetcher), [document.cookie](https://github.com/zero-dependency/cookie), [Web Storage](https://github.com/zero-dependency/storage), [Event Emitter](https://github.com/zero-dependency/emitter), [React hooks](https://github.com/zero-dependency/react), [DOM utilities](https://github.com/zero-dependency/dom), and other useful [utilities](https://github.com/zero-dependency/utils).
+- [⛏ Atestacraft](https://github.com/atestacraft) / [atestacraft.ru](https://atestacraft.ru) — A vanilla Minecraft server with enhanced features! We offer [custom emotes](https://github.com/atestacraft/spigot-chatemotes) in chat and voice chat capabilities through [Plasmo Voice](https://github.com/plasmoapp/plasmo-voice).
+- [:suspect: GIGACHAD](https://github.com/gigachad-dev) — A group of developers passionate about creating open-source projects within Twitch.
+- [:octocat: Yolo Forks](https://github.com/yoloforks) — This is where I put my repository forks.
 
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
 
