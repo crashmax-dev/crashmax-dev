@@ -1,3 +1,17 @@
+<a href="https://t.me/crashmax" target="_blank" rel="nofollow">
+  <picture>
+    <source width="26px"  media="(prefers-color-scheme: dark)" srcset="icons/telegram-dark.svg">
+    <img width="26px" src="icons/telegram-light.svg" />
+  </picture>
+</a>
+
+<a href="https://twitch.tv/vs_code" target="_blank" rel="nofollow">
+  <picture>
+    <source width="26px" align="right" media="(prefers-color-scheme: dark)" srcset="icons/twitch-dark.svg">
+    <img width="26px" align="right" src="icons/twitch-light.svg" />
+  </picture>
+</a>
+
 <h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1>
 
 Frontend Developer with 5+ years of experience in React and Next.js, as well as previous experience in PHP (one year).
