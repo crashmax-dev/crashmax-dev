@@ -1,14 +1,14 @@
 <a href="https://t.me/crashmax" target="_blank" rel="nofollow">
   <picture>
-    <source width="26px"  media="(prefers-color-scheme: dark)" srcset="icons/telegram-dark.svg">
-    <img width="26px" src="icons/telegram-light.svg" />
+    <source width="26px" align="right" media="(prefers-color-scheme: dark)" srcset="icons/telegram-light.svg">
+    <img width="26px" align="right" src="icons/telegram-dark.svg" />
   </picture>
 </a>
 
 <a href="https://twitch.tv/vs_code" target="_blank" rel="nofollow">
   <picture>
-    <source width="26px" align="right" media="(prefers-color-scheme: dark)" srcset="icons/twitch-dark.svg">
-    <img width="26px" align="right" src="icons/twitch-light.svg" />
+    <source width="26px" align="right" media="(prefers-color-scheme: dark)" srcset="icons/twitch-light.svg">
+    <img width="26px" align="right" src="icons/twitch-dark.svg" />
   </picture>
 </a>
 
