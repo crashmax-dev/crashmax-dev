@@ -1,18 +1,21 @@
-<a href="https://t.me/crashmax" target="_blank" rel="nofollow">
-  <picture>
-    <source width="26px" align="right" media="(prefers-color-scheme: dark)" srcset="icons/telegram-light.svg">
-    <img width="26px" align="right" src="icons/telegram-dark.svg" />
-  </picture>
-</a>
+<h1>
+  <img src="octocats/mona-whisper.gif" width="40" height="40">
+  Hi there!
 
-<a href="https://twitch.tv/vs_code" target="_blank" rel="nofollow">
-  <picture>
-    <source width="26px" align="right" media="(prefers-color-scheme: dark)" srcset="icons/twitch-light.svg">
-    <img width="26px" align="right" src="icons/twitch-dark.svg" />
-  </picture>
-</a>
+  <a href="https://t.me/crashmax" target="_blank" rel="nofollow">
+    <picture>
+      <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/telegram-light.svg">
+      <img width="40" align="right" src="icons/telegram-dark.svg" />
+    </picture>
+  </a>
 
-<h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1>
+  <a href="https://twitch.tv/vs_code" target="_blank" rel="nofollow">
+    <picture>
+      <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/twitch-light.svg">
+      <img width="40" align="right" src="icons/twitch-dark.svg" />
+    </picture>
+  </a>
+</h1>
 
 Frontend Developer with 5+ years of experience in React and Next.js, as well as previous experience in PHP (one year).
 
