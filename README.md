@@ -58,6 +58,6 @@ Frontend Developer with 5+ years of experience in React and Next.js, as well as 
 <h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crashmax-dev&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&theme=transparent&text_color=2a84ea" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-dev&layout=compact&theme=white&icon_color=2a84ea&theme=transparent&text_color=2a84ea&hide=html,css,scss" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crashmax-dev&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-dev&layout=compact&theme=white&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=html,css,scss" />
 </div>
