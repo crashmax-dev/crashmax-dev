@@ -34,7 +34,7 @@ Frontend Developer with 5+ years of experience in React and Next.js, as well as 
 
 - [0️⃣ Zero Dependency](https://github.com/zero-dependency) — Organization provides a set of useful tiny libraries for everyday use, including [fetch](https://github.com/zero-dependency/fetcher), [document.cookie](https://github.com/zero-dependency/cookie), [Web Storage](https://github.com/zero-dependency/storage), [Event Emitter](https://github.com/zero-dependency/emitter), [React hooks](https://github.com/zero-dependency/react), [DOM utilities](https://github.com/zero-dependency/dom), and other useful [utilities](https://github.com/zero-dependency/utils).
 - [⛏ Atestacraft](https://github.com/atestacraft) / [atestacraft.ru](https://atestacraft.ru) — A vanilla Minecraft server with enhanced features! We offer [custom emotes](https://github.com/atestacraft/spigot-chatemotes) in chat and voice chat capabilities through [Plasmo Voice](https://github.com/plasmoapp/plasmo-voice).
-- [:suspect: GIGACHAD](https://github.com/gigachad-dev) — A group of developers passionate about creating open-source projects within Twitch.
+- [:suspect: GIGACHAD](https://github.com/gigachad-dev) — A group of developers creating open-source projects on Twitch.
 - [:octocat: Yolo Forks](https://github.com/yoloforks) — This is where I put my repository forks.
 
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
