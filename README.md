@@ -17,7 +17,7 @@
   </a>
 </h1>
 
-Frontend Developer with 5+ years of experience in React and Next.js, as well as previous experience in PHP (one year).
+Frontend Developer with 5+ years of experience in React and Next.js
 
 [![wakatime](https://wakatime.com/badge/user/2b32151b-c987-411d-8aef-23a48c2cd648.svg?style=flat-square)](https://wakatime.com/@2b32151b-c987-411d-8aef-23a48c2cd648)
 
