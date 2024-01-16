@@ -9,7 +9,7 @@
     </picture>
   </a>
 
-  <a href="https://twitch.tv/web_storm">
+  <a href="https://twitch.tv/vs_code">
     <picture>
       <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/twitch-light.svg">
       <img width="40" align="right" src="icons/twitch-dark.svg" />
