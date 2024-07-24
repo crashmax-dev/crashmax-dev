@@ -21,10 +21,10 @@
 
 <h2>Most important repositories</h2>
 
-- [🎆 fireworks-js](https://github.com/crashmax-dev/fireworks-js) / [fireworks-js.org](https://fireworks.js.org) — A simple fireworks library! My first open-source project. It all started with a small fork that has now been lost. The library includes components for various frameworks such as React, Vue, Svelte, and more.
-- [🌈 twallpaper](https://github.com/crashmax-dev/twallpaper) / [twallpaper.js.org](https://twallpaper.js.org) — Multicolor gradient wallpaper created algorithmically and shimmers smoothly. Originally named (Telegram Wallpaper), this project was built using code from Telegram's public pages. This code was rewritten in TypeScript and the API was improved, so it is now available on React and Vue.
+- [🎆 fireworks-js](https://github.com/crashmax-dev/fireworks-js) ([fireworks-js.org](https://fireworks.js.org)) — A simple fireworks library! My first open-source project. It all started with a small fork that has now been lost. The library includes components for various frameworks such as React, Vue, Svelte, and more.
+- [🌈 twallpaper](https://github.com/crashmax-dev/twallpaper) ([twallpaper.js.org](https://twallpaper.js.org)) — Multicolor gradient wallpaper created algorithmically and shimmers smoothly. Originally named "Telegram Wallpaper", this project was built using code from Telegram public pages. This code was rewritten in TypeScript and the API was improved, so it is now available on React and Vue.
 
-<h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
+<h1><img src="octocats/octocat-squid.gif" width="40" height="40">Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=vue.js&logoColor=ffffff&color=4fc08d)
